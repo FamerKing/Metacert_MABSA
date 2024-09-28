@@ -11,7 +11,7 @@
 
 ## Introduction
 
-MetaCert (Metabolic Attention Network Utilizing Uncertainty Estimation) is an advanced framework designed to address the challenges in Multimodal Aspect-Category-Sentiment Triple Extraction (MACSTE), a complex subtask within Multimodal Aspect-Based Sentiment Analysis (MABSA). This framework focuses on simultaneous attribute extraction and sentiment polarity prediction from image-text pairs.
+MetaCert (Metabolic Attention Network Utilizing Uncertainty Estimation) is an advanced framework designed to address the challenges in Multimodal Aspect-Category-Sentiment Triple Extraction (MACSTE), a complex subtask within Multimodal Aspect-Based Sentiment Analysis (MABSA). Part of this work and idea comes from dtca model. This framework focuses on simultaneous attribute extraction and sentiment polarity prediction from image-text pairs.
 
 Key features of MetaCert include:
 
